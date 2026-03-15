@@ -693,10 +693,6 @@
     position:absolute;
     left:0; right:0; bottom:-30px;
     height: 160px;
-    background:
-      radial-gradient(circle at 10% 60%, rgba(11,18,32,.06), rgba(11,18,32,0) 55%),
-      radial-gradient(circle at 50% 50%, rgba(11,18,32,.05), rgba(11,18,32,0) 60%),
-      radial-gradient(circle at 90% 60%, rgba(11,18,32,.06), rgba(11,18,32,0) 55%);
     opacity: 1;
   }
   
