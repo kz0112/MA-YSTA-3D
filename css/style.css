@@ -407,7 +407,49 @@
     border-color: transparent;
     color:#1a1306;
   }
-  
+
+.authorBlock{
+  padding:80px 0;
+  background:#f8f8f8;
+}
+
+.authorBlock__grid{
+  display:grid;
+  grid-template-columns:280px 1fr;
+  gap:40px;
+  align-items:center;
+}
+
+.authorBlock__photo img{
+  width:100%;
+  border-radius:18px;
+  box-shadow:0 10px 30px rgba(0,0,0,.15);
+}
+
+.authorBlock__content h2{
+  font-size:28px;
+  margin-bottom:20px;
+  line-height:1.4;
+  color:#111;
+}
+
+.authorBlock__content p{
+  font-size:20px;
+  margin-bottom:12px;
+  color:#333;
+}
+
+@media(max-width:768px){
+  .authorBlock__grid{
+    grid-template-columns:1fr;
+    text-align:center;
+  }
+
+  .authorBlock__photo{
+    max-width:260px;
+    margin:auto;
+  }
+}
   /* ===== ROUTES (HORIZONTAL LIKE SLIDER) ===== */
   .routes{
     display:flex;
