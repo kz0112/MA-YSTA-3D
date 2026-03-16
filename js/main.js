@@ -319,7 +319,7 @@ const ROUTES = {
       gallery: [
         "https://archive.nationalgeographic.kz/wp-content/uploads/2023/11/mys-tupkaragan.jpg",
         "https://archive.nationalgeographic.kz/wp-content/uploads/2023/10/dscf0113-panorama-scaled.jpg",
-        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/06/ysh7476.jpg",
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/06/ysh7476.jpg"
       ],
       short: "Тарихы мен табиғаты тоғысқан, кең көкжиек ашылатын мүйіс.",
       about:
