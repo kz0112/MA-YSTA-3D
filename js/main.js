@@ -340,13 +340,12 @@ const ROUTES = {
   
     zhygylgan: {
       title: "Жығылған мүйісі",
-      img: "https://backend.mangystau-travel.kz/storage/27/2020-07-13-122731.jpg",
+      img: "https://archive.nationalgeographic.kz/wp-content/uploads/2023/07/dscf0200-1.jpg",
       gallery: [
-        "https://backend.mangystau-travel.kz/storage/28/3-2020-07-13-122726.jpg ",
-        "https://backend.mangystau-travel.kz/storage/29/6-2020-07-13-122726.jpg",
-        "https://backend.mangystau-travel.kz/storage/30/i8nrq8lw0-2020-07-13-122728.jpg",
-        "https://backend.mangystau-travel.kz/storage/31/i-2020-07-13-122727.jpg",
-        "https://backend.mangystau-travel.kz/storage/32/i4d8f2k67-2020-07-13-122727.jpg"
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/07/sha6890-1.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC77QHAss5KNsqFkbmdlEx58tvsGQtnrx7Ew&s",
+        "https://kaz.tengrinews.kz/userdata/images/u337/resized/cdda19a30e8139fb4acd3b28f324beeb.JPG",
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/11/kyzylkala1.jpg"
       ],
       short: "Табиғи опырылманың ізі қалған ерекше геологиялық аймақ.",
       about:
@@ -367,11 +366,11 @@ const ROUTES = {
   
     kapamsay: {
       title: "Қапамсай каньоны",
-      img: "https://backend.mangystau-travel.kz/storage/34/zapadniy_kaz78_4x3.jpg",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKP6rx1IvTScELJGwtrIME9oZ5wDyONMbaaA&s",
       gallery: [
-        "https://backend.mangystau-travel.kz/storage/35/08_foto_Kanyon_Kapamsai.jpg",
-        "https://backend.mangystau-travel.kz/storage/36/01_%D1%84%D0%BE%D1%82%D0%BE_%D0%9A%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD_%D0%9A%D0%B0%D0%BF%D0%B0%D0%BC%D1%81%D0%B0%D0%B8%CC%86.jpg",
-        "https://backend.mangystau-travel.kz/storage/105/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-12-26_144648052.png"
+        "https://avatars.mds.yandex.net/get-altay/1001354/2a000001883d0845b5d96b43b9ff8039c407/L_height",
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/09/dscf0505.jpg",
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/09/sha7102.jpg"
       ],
       short: "Борлы шатқал, ұзын сайлар және әсерлі бедерлер.",
       about:
@@ -392,12 +391,12 @@ const ROUTES = {
   
     torysh: {
       title: "Торыш — шарлы конкрециялар алқабы",
-      img: "https://backend.mangystau-travel.kz/storage/38/131d017abbedaa043f8fabb0d7bb154b.jpeg",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1wmNWInMFxH919j9nyq39E8r0ZHXdHedAQ&s",
       gallery: [
-        "https://backend.mangystau-travel.kz/storage/39/photo_317929.jpeg",
-        "https://backend.mangystau-travel.kz/storage/40/Torysh1125.jpg",
-        "https://backend.mangystau-travel.kz/storage/41/news6857.jpg",
-        "https://backend.mangystau-travel.kz/storage/42/dji_20230607134623_0085_d.jpg"
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/08/dji_20230607134623_0085_d.jpg",
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/08/sha2621.jpg",
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/08/dji_20230607142537_0131_d.jpg",
+        "https://silkadv.com/sites/default/files/Kazahstan/Priroda/Priroda_Zapadnogo_Kz/Priroda_Mangyshlaka/Torysh/0_11_IMG_8393-min.JPG"
       ],
       short: "Далаға шашылған тас шарлар — Маңғыстаудың ең әйгілі құпияларының бірі.",
       about:
@@ -418,11 +417,11 @@ const ROUTES = {
   
     kokala: {
       title: "Көкала (Кокала) урочищесі",
-      img: "https://backend.mangystau-travel.kz/storage/43/0_10_570-min.JPG",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBaBFIg7PAHgaih2ln6myskYTxlKgnokmXfA&s",
       gallery: [
-       "https://backend.mangystau-travel.kz/storage/44/0_11_599-min.JPG",
-       "https://backend.mangystau-travel.kz/storage/45/kok-kala.jpg",
-       "https://backend.mangystau-travel.kz/storage/46/1650048490_kokala-tract-8.jpg"
+       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGf3AP-2P-fdhf7g8p4H_OiLtlqf7fpVmOag&s",
+       "https://www.advantour.com/img/kazakhstan/mangystau/kok-kala.jpg",
+       "https://wildticketasia.com/uploads/posts/2022-04/1650048490_kokala-tract-8.jpg
       ],
       short: "Жартастар, кең көкжиек, тыныш табиғат — демалуға да, зерттеуге де қолайлы.",
       about:
@@ -443,11 +442,11 @@ const ROUTES = {
   
     akmysh: {
       title: "Ақмыш урочищесі",
-      img: "https://backend.mangystau-travel.kz/storage/47/1602160368_01-4.jpg",
+      img: "https://upload.wikimedia.org/wikipedia/kk/d/d1/%D0%90%D2%9B%D0%BC%D1%8B%D1%88.jpg",
       gallery: [
-       "https://backend.mangystau-travel.kz/storage/48/1602160432_01-3.jpg",
-       "https://backend.mangystau-travel.kz/storage/49/1602160401_01-2.jpg",
-       "https://backend.mangystau-travel.kz/storage/47/1602160368_01-4.jpg"
+       "https://baq.kz/userfiles/images/WhatsApp%20Image%202024-04-17%20at%2009_31_50.jpeg",
+       "https://tl.yu.edu.kz/wp-content/uploads/2023/11/%C2%ABturizm%C2%BB-k%D2%AFnine-sher%D2%9Bala-a%D2%9Bmysh-saj-tur-3.png",
+       "https://abai.kz/content/uploads/2021/09/2019_10_01_turi-1000x_.jpeg?token=7178f43e24e1c9b9aedfafb3f48fb323"
       ],
       short: "Жасыл оазис: бұлақтар, ағаштар, көлеңкелі сайлар.",
       about:
@@ -470,14 +469,11 @@ const ROUTES = {
   
     tuzbair: {
       title: "Тұзбайыр сор алқабы",
-      img: "https://backend.mangystau-travel.kz/storage/54/4de825188efc4522b56be71591cbe9ebmax-1200x800-97.jpg",
+      img: "https://kaz.tengrinews.kz/userdata/images/u337/resized/49f60babe5e0163dffc1cfb1ebe447d5.JPG",
       gallery: [
-       "https://backend.mangystau-travel.kz/storage/55/sor-tuzbair_2.webp",
-       "https://backend.mangystau-travel.kz/storage/56/%D0%A2%D1%83%D0%B7%D0%B1%D0%B0%D0%B8%D1%80.jpg",
-       "https://backend.mangystau-travel.kz/storage/57/caption.jpg",
-       "https://backend.mangystau-travel.kz/storage/58/IMG_2966.jpg",
-       "https://backend.mangystau-travel.kz/storage/59/izbgxivqe.jpg",
-       "https://backend.mangystau-travel.kz/storage/60/7646097.jpg"
+       "https://upload.wikimedia.org/wikipedia/commons/9/93/Demoiselle_crane_anthropoides_virgo.jpg",
+       "https://avatars.mds.yandex.net/i?id=0e2afca3c0a1218a1061e66e038ac913324e6280-10814916-images-thumbs&n=13",
+       "https://avatars.mds.yandex.net/i?id=452e4176e46bdecb697e4b99ff31b89894ed9c1b-5865444-images-thumbs&n=13"
              ],
       short: "Ақ сор, кең кеңістік және ерекше “ай пейзажы”.",
       about:
@@ -498,12 +494,11 @@ const ROUTES = {
   
     kyzylkup: {
       title: "Қызылқұп урочищесі",
-      img: "https://backend.mangystau-travel.kz/storage/62/0_8_IMG_3095-min.jpg",
+      img: "https://m.ticketon.kz/files/images/0_8_IMG_3095-min.jpg",
       gallery: [
        "https://backend.mangystau-travel.kz/storage/63/%D0%A3%D1%80%D0%BE%D1%87%D0%B8%D1%89%D0%B5-%D0%9A%D1%8B%D0%B7%D1%8B%D0%BB%D0%BA%D1%83%D0%BF.jpg",
-       "https://backend.mangystau-travel.kz/storage/64/25663.970.jpg",
-       "https://backend.mangystau-travel.kz/storage/65/aa8a8185-edit-scaled.jpg",
-       "https://backend.mangystau-travel.kz/storage/66/image-1.png"
+       "https://i.pinimg.com/736x/8c/de/9d/8cde9d696699a75ee8df9207dc73c1e9.jpg",
+       "https://archive.nationalgeographic.kz/wp-content/uploads/2023/10/aa8a8068-scaled.jpg"
         ],
       short: "Түрлі түсті қабаттардан құралған ерекше жоталар.",
       about:
@@ -524,12 +519,11 @@ const ROUTES = {
   
     bokty: {
       title: "Боқты тауы",
-      img: "https://backend.mangystau-travel.kz/storage/67/0_5_IMG_0450-min.jpg",
+      img: "https://avatars.mds.yandex.net/get-altay/14098455/2a00000193b97e2d0a3fc79adce2b8f44f2d/L_height",
       gallery: [
-       "https://backend.mangystau-travel.kz/storage/68/gora-bokty_cover.webp",
-       "https://backend.mangystau-travel.kz/storage/69/1659783356_bokty-mount-3.jpg",
-       "https://backend.mangystau-travel.kz/storage/70/original-146.jpg",
-       "https://backend.mangystau-travel.kz/storage/67/0_5_IMG_0450-min.jpg"
+       "https://avatars.mds.yandex.net/get-altay/13229346/2a00000193b97e1b49136536a991a0edb43d/L_height",
+       "https://avatars.mds.yandex.net/get-altay/15037708/2a00000194a9362721376957d508db34b248/L_height",
+       "https://archive.nationalgeographic.kz/wp-content/uploads/2023/10/ysh_1609.jpg"
       ],
       short: "Ежелгі теңіз түбінен қалған қабаттары бар фотогендік тау.",
       about:
@@ -550,11 +544,11 @@ const ROUTES = {
   
     teyesu: {
       title: "Түйесу құмдары",
-      img: "https://backend.mangystau-travel.kz/storage/71/teyesu-sands-mangystau-region-(6).jpg",
+      img: "https://avatars.mds.yandex.net/i?id=b57980dfa4586f9e70cdc55ea4864c1e-4893181-images-thumbs&n=13",
       gallery: [
-       "https://backend.mangystau-travel.kz/storage/72/8235680.jpg",
-       "https://backend.mangystau-travel.kz/storage/73/9016859.jpg",
-       "https://backend.mangystau-travel.kz/storage/71/teyesu-sands-mangystau-region-(6).jpg"
+       "https://avatars.mds.yandex.net/i?id=53a95a7b6e3dc47a6c1dd474f246f33ff75c68bc-16119437-images-thumbs&n=13",
+       "https://avatars.mds.yandex.net/i?id=1d4bdf2290b21aec7705c8d97ee01555abb7e67d-9147217-images-thumbs&n=13",
+       "https://avatars.mds.yandex.net/i?id=06bf9393a8acd16cd759e87692df9e3aad7eb95d-10697425-images-thumbs&n=13"
        ],
       short: "Құм жоталары, жел бедері және күн батар шақтағы ерекше атмосфера.",
       about:
