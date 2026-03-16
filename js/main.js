@@ -315,11 +315,11 @@ const ROUTES = {
   
     tupkaragan: {
       title: "«Түпқараған» мүйісі",
-      img: "https://backend.mangystau-travel.kz/storage/24/mys-tupkaragan1.jpg",
+      img: "https://archive.nationalgeographic.kz/wp-content/uploads/2023/11/mys-tupkaragan1.jpg",
       gallery: [
-        "https://backend.mangystau-travel.kz/storage/23/mys-tupkaragan_cover.webp",
-        "https://backend.mangystau-travel.kz/storage/25/dsc_0141.jpg",
-        "https://backend.mangystau-travel.kz/storage/26/dsc_0173.jpg",
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/11/mys-tupkaragan.jpg",
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/10/dscf0113-panorama-scaled.jpg",
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/06/ysh7476.jpg",
       ],
       short: "Тарихы мен табиғаты тоғысқан, кең көкжиек ашылатын мүйіс.",
       about:
