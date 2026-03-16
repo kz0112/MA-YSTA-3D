@@ -623,11 +623,11 @@ const ROUTES = {
   
     sherkala: {
       title: "Шеркала",
-      img: "https://backend.mangystau-travel.kz/storage/96/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-12-26_125540470.png",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-KTCh15ro0YMBHVaeeJ_41Fm2-6V6sjS4Q&s",
       gallery: [
-        "https://backend.mangystau-travel.kz/storage/97/IMG_1905.JPG",
-        "https://backend.mangystau-travel.kz/storage/98/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-12-26_125613809.png",
-        "https://backend.mangystau-travel.kz/storage/99/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-12-26_125702045.png"
+        "https://kz24.news/wp-content/uploads/2023/04/sherkala-2.jpg",
+        "https://www.advantour.com/img/kazakhstan/mangystau/sherkala1.jpg",
+        "https://e-history.kz/storage/tmp/resize/preview/1200_0_2a735892005615f150424af9d79122f7.jpg"
       ],
       short: "Аңызға толы тау, алыстан көрінетін ерекше силуэт және тарихи атмосфера.",
       about:
@@ -649,11 +649,11 @@ const ROUTES = {
   
     otpantau: {
       title: "Отпан тау",
-      img: "https://backend.mangystau-travel.kz/storage/92/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-12-26_114216656.png",
+      img: "https://i.ytimg.com/vi/r4ZuPphHAh0/maxresdefault.jpg",
       gallery: [
-        "https://backend.mangystau-travel.kz/storage/93/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-12-26_114312826.png",
-        "https://backend.mangystau-travel.kz/storage/94/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-12-26_114323332.png",
-        "https://backend.mangystau-travel.kz/storage/95/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-12-26_114338576.png"
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEoQwwBKSw-fRL6Cus2TBIZCOIH4-LbbNFFA&s",
+        "https://eurasia.travel/wp-content/uploads/2025/02/3.-Otpan-Tau.jpg",
+        "https://avatars.mds.yandex.net/i?id=b1dfd13f575c6cba483ebfc54a48a2c1248e09aa-11431503-images-thumbs&n=13"
       ],
       short: "Киелі орын, биік төбе және ұлттық рух сезілетін панорамалық нүкте.",
       about:
@@ -675,11 +675,11 @@ const ROUTES = {
   
     karakiya: {
       title: "Қарақия ойпаты",
-      img: "https://backend.mangystau-travel.kz/storage/83/14_521045.jpg",
+      img: "https://archive.nationalgeographic.kz/wp-content/uploads/2023/11/sha0655.jpg",
       gallery: [
-        "https://backend.mangystau-travel.kz/storage/84/1270025763_tour.jpg",
-        "https://backend.mangystau-travel.kz/storage/85/i7zgkgyg5.jpg",
-        "https://backend.mangystau-travel.kz/storage/86/1249987738_guide.jpg"
+        "https://upload.wikimedia.org/wikipedia/commons/d/df/View_of_Karagiye_Depression.JPG",
+        "https://archive.nationalgeographic.kz/wp-content/uploads/2023/11/sha0664.jpg",
+        "https://akyldy.kz/wp-content/uploads/2025/04/qaraqiya-ojpaty-twraly-qyzyqty-maelimetter.jpg"
       ],
       short: "Кең ойпат, ерекше кеңістік және табиғи «марс» әсерін беретін ландшафт.",
       about:
