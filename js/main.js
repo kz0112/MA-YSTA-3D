@@ -288,9 +288,10 @@ if (nextBtn) nextBtn.addEventListener("click", () => scrollRoutes(360));
 const ROUTES = {
     bluebay: {
       title: "Теңіз шығанағы «Көгілдір бухта»",
-      img: "https://backend.mangystau-travel.kz/storage/20/jpeg.jpg",
+      img: "https://ticketon.kz/files/media/golubaya-buhta785.jpg",
       gallery: [
-        "https://backend.mangystau-travel.kz/storage/rScpnZC6Kv4KOu8VoYRh86tdzymK2VlvsqLoOLx6.png"
+        "https://m.ticketon.kz/files/media/golubaya-buhta330.jpg",
+        "https://kaz.tengrinews.kz/userdata/images/u141/resized/3230bc829239240baa85e6603b595a18.JPG"
       ],
       short: "Маңғышлақ түбегінің тастақты жағалауы мен мөлдір суы үйлескен ерекше шығанақ.",
       about:
