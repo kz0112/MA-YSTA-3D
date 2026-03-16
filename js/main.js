@@ -421,7 +421,7 @@ const ROUTES = {
       gallery: [
        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGf3AP-2P-fdhf7g8p4H_OiLtlqf7fpVmOag&s",
        "https://www.advantour.com/img/kazakhstan/mangystau/kok-kala.jpg",
-       "https://wildticketasia.com/uploads/posts/2022-04/1650048490_kokala-tract-8.jpg
+       "https://wildticketasia.com/uploads/posts/2022-04/1650048490_kokala-tract-8.jpg"
       ],
       short: "Жартастар, кең көкжиек, тыныш табиғат — демалуға да, зерттеуге де қолайлы.",
       about:
