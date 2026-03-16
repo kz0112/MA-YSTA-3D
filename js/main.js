@@ -290,9 +290,9 @@ const ROUTES = {
       title: "Теңіз шығанағы «Көгілдір бухта»",
       img: "https://backend.mangystau-travel.kz/storage/20/jpeg.jpg",
       gallery: [
-        "https://backend.mangystau-travel.kz/storage/21/-W98ovk06ML3F.jpg",
-        "https://backend.mangystau-travel.kz/storage/22/palec.jpg",
-        "https://backend.mangystau-travel.kz/storage/109/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-12-26_151340055.png",
+         "https://images.weserv.nl/?url=backend.mangystau-travel.kz/storage/21/-W98ovk06ML3F.jpg",
+ "https://images.weserv.nl/?url=backend.mangystau-travel.kz/storage/22/palec.jpg"
+"https://backend.mangystau-travel.kz/storage/109/%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5_2023-12-26_151340055.png",
         "https://backend.mangystau-travel.kz/storage/rScpnZC6Kv4KOu8VoYRh86tdzymK2VlvsqLoOLx6.png"
       ],
       short: "Маңғышлақ түбегінің тастақты жағалауы мен мөлдір суы үйлескен ерекше шығанақ.",
